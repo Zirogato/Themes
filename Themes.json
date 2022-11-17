@@ -1,0 +1,26 @@
+[
+    {
+        "author" : "Ankama Games", 
+        "name" : "Nowel", 
+        "keyWords" : "Nowel",
+        "version" : "2.65",
+        "dofusVersion" : "2.65", 
+        "description" : "Joyeux Nowel ! Dm discord report bug : Zirogato#3254", 
+        "url" : "https://raw.githubusercontent.com/Zirogato/Nowel/main/Nowel.zip",
+        "previewUrl" : "https://raw.githubusercontent.com/Zirogato/Nowel/main/nowelpreview.jpg", 
+        "creationDate" : "21/12/2017", 
+        "modificationDate" : "17/11/2022"
+    },
+ 
+    {
+        "author" : "Zirogato", 
+        "name" : "Stitch Nowel", 
+        "keyWords" : "StitchNowel",
+        "version" : "2.65",
+        "dofusVersion" : "2.65", 
+        "description" : "Joyeux Nowel ! Dm discord report bug : Zirogato#3254", 
+        "url" : "https://raw.githubusercontent.com/Zirogato/StitchNowel/main/StitchNowel.zip",
+        "previewUrl" : "https://raw.githubusercontent.com/Zirogato/StitchNowel/main/stitchnowelpreview.jpg", 
+        "creationDate" : "17/11/2022"
+    }
+]
